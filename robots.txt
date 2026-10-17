@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b99245ab4c.jvnkvds.cn/sitemap.xml
